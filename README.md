@@ -1,4 +1,4 @@
-                           ### 👋 Hi, I’m Guruprasad G
+   ### 👋 Hi, I’m Guruprasad G
 - 👀 I’m interested in ML, A.I, Robotics, Cybersecurity and Embedded systems
 - 🌱 I’m currently studying Bachelor of Engineering in Electronics and Communication
 - 💞️ I’m looking to collaborate on Python, C and ML projects.

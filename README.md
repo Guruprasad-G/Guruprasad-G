@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects, C and Embedded C projects and ML projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**,**C**,**Electronics**
 
 - 📫 How to reach me **guruprasad2018g@gmail.com**
 

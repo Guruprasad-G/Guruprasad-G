@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasad-g&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasad-g" /> </p>
 
-- 🔭 I’m currently pursuing **3rd year Electronics & Communication Engineering in Don Bosco Institute of Technology**
+- 🔭 I’m currently pursuing **Final year Electronics & Communication Engineering in Don Bosco Institute of Technology**
 
 - 🌱 I’m currently learning **DSA**
 
